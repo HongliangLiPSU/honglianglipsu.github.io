@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Ilya Kovalenko](https://www.caislab.com/) and [Prof. Herschel Pangborn](http://www.paclab.info/). Before joining Penn State University, I was a Research Associate at [Surbana Jurong Nanyang Technological University Corporate Lab](https://www.ntu.edu.sg/sj-ntu), working on wasted energy recoveries. I hold B.S. and M.S. from Tianjin University. I developed advanced optimization and learning algorithms, as well as planning and digital twin tools, to enhance the efficiency and reliability of networked multi-agent systems, including manufacturing systems and supply chains. 
+I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Ilya Kovalenko](https://www.caislab.com/) and [Prof. Herschel Pangborn](http://www.paclab.info/). I build advanced optimization and learning algorithms, as well as planning and digital twin tools, to make complex networked systems more efficient and reliable—especially manufacturing systems and supply chains. Before Penn State, I was a Research Associate at the [Surbana Jurong–Nanyang Technological University Corporate Lab](https://www.ntu.edu.sg/sj-ntu), working on waste energy recovery. I earned my B.S. and M.S. degrees from Tianjin University.
+
 
 ## News
 - [Oct 2025] Hongliang was selected as a “Rising Star” in the ASME Dynamic Systems and Control Division.
