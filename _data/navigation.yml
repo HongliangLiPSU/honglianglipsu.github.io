@@ -24,10 +24,10 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Hongliang_CV_2026.pdf
     
-  - title: "CV"
-    url: /cv-json/
+  # - title: "CV"
+  #   url: /cv-json/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
