@@ -8,32 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #   - title: "Research"
-  #   url: /research/
-    
-  # - title: "Experience"
-  #   url: /experience/
-    
-  - title: "Publications"
-      url: /publications/
+  - title: "Research"
+    url: /research/
 
-  # - title: "Talks"
-  #    url: /talks/    
+  - title: "Project"
+    url: /project/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Publication"
+    url: /publications/
     
   - title: "CV"
     url: /files/Hongliang_CV_2026.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
