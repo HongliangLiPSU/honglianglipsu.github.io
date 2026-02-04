@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Ilya Kovalenko](https://www.caislab.com/) and [Prof. Herschel Pangborn](http://www.paclab.info/). I build advanced optimization and learning algorithms, as well as planning and digital twin tools, to make complex networked systems more efficient and reliable—especially manufacturing systems and supply chains. Before Penn State, I was a Research Associate at the [Surbana Jurong–Nanyang Technological University Corporate Lab](https://www.ntu.edu.sg/sj-ntu), working on waste energy recovery. I earned my B.S. and M.S. degrees from Tianjin University.
+I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Ilya Kovalenko](https://www.caislab.com/) and [Prof. Herschel Pangborn](http://www.paclab.info/). I build advanced optimization and learning algorithms, as well as planning and digital twin tools, to make complex networked systems more efficient and reliable. Before Penn State, I was a Research Associate at the [Surbana Jurong–Nanyang Technological University Corporate Lab](https://www.ntu.edu.sg/sj-ntu), working on waste energy recovery. I earned my B.S. and M.S. degrees from Tianjin University.
 
 
 ## News
