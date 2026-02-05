@@ -140,9 +140,6 @@ def build_markdown(
         lines.append(f"paperurl: '{yaml_quote(paper_url)}'")
     lines.append(f"citation: '{yaml_quote(citation)}'")
     lines.append("---")
-    lines.append("")
-    lines.append("Synced from Google Scholar.")
-    lines.append("")
     return "\n".join(lines)
 
 
