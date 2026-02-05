@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Gird-interactive System Level Energy Efficient Digital Twin Dashboard
+We developed a React + Vite based web dashboard that visualizes a grid-interactive manufacturing system using a model predictive control (MPC) simulation. It runs a 3-day (72-hour) synthetic digital-twin scenario and shows buffer levels, process rates, production-vs-target performance, electricity price, power demand, and energy cost through interactive charts. The goal is to give a quick operational view of throughput, energy efficiency, peak demand, and total cost in one interface.
 <iframe 
   src="https://mpc-dashboard-snowy.vercel.app/" 
   width="80%" 
