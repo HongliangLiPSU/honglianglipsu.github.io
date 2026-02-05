@@ -14,7 +14,7 @@ My research focuses on the intersection of optimization theory, control systems,
 ![My figure](/images/gendt.png)
 [**Rising Researcher Proposal**](https://icds.psu.edu/funding/rising-researchers/rising-researcher-projects-2026/)
 
-### Bi-level Optimization Model Predictive Control for Coupled Herrichtical Real-time Control
+### Bi-level Optimization Model Predictive Control for Coupled Herrichtical Real-time Decision Making
 ![My figure](/images/bilevel.png)
 **Selected publication:**
 Li H, Pangborn H C, Kovalenko I. Bi-level Model Predictive Control for Energy-aware Integrated Product Pricing and Production Scheduling[J]. IFAC-PapersOnLine, 2025, 59(30): 665-670.
