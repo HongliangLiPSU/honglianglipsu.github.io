@@ -7,6 +7,13 @@ sidebar:
   nav: "research-subnav"
 ---
 
-## Research Summary
+### Research Summary
 My research focuses on the intersection of optimization theory, control systems, and smart manufacturing, with a particular emphasis on developing hierarchical decision-making frameworks that enable manufacturing systems to operate more efficiently, sustainably, and responsively to dynamic market and energy conditions.
 
+### System-level Energy Efficient Digital Twin for Networked Complex Systems
+
+
+### Bi-level Optimization for Coupled Decision Making and Efficient Algothrims
+
+
+### Herrichtical Model Predictive Control
