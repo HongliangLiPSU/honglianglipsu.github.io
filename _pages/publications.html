@@ -26,11 +26,17 @@ author_profile: true
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
+  {% assign uncategorized = site.publications | where_exp: "item", "item.category == nil or item.category == ''" %}
+  {% if uncategorized.size > 0 %}
+    <h2>Other Publications</h2><hr />
+    {% for post in uncategorized reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 

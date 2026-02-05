@@ -15,6 +15,26 @@
 
 See more info at https://academicpages.github.io/
 
+## Sync Publications From Google Scholar
+
+Run one command from the repo root:
+
+```bash
+./scripts/update_publications.sh
+```
+
+What it does:
+- Reads `author.googlescholar` from `_config.yml`.
+- Fetches publications from your Google Scholar profile.
+- Regenerates files in `_publications/`.
+- Tracks generated files in `_publications/.google_scholar_manifest.json` so stale previously-synced files are removed on the next run.
+
+Optional:
+
+```bash
+./scripts/update_publications.sh --dry-run
+```
+
 ## Running locally
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
