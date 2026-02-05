@@ -20,6 +20,16 @@ My research focuses on the intersection of optimization theory, control systems,
 Li H, Pangborn H C, Kovalenko I. Bi-level Model Predictive Control for Energy-aware Integrated Product Pricing and Production Scheduling[J]. IFAC-PapersOnLine, 2025, 59(30): 665-670.
 
 ### Grid-interactive Manufacturing Systems with the System Level Energy Efficiency Digital Twin
+
+<iframe
+  width="80%"
+  height="450"
+  src="https://youtu.be/XgXZt70VPOQ"
+  title="GenTwin demo"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
 ![My figure](/images/sleedt3.png)
 **Selected publication:**
 Li H, Pangborn H C, Kovalenko I. Hierarchical Model Predictive Control for Energy-aware Scheduling of Digital Twin-based Batch Manufacturing Systems[J]. IEEE Transactions on Automation Science and Engineering, 2025.
