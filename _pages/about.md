@@ -18,5 +18,18 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Il
 - [Aug 2025] Our paper [Energy-Aware Model Predictive Control for Batch Manufacturing System Scheduling Under Different Electricity Pricing Strategies](https://arxiv.org/abs/2506.22923) was presented at the 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE 2025).
 - [Jun 2025] Our paper [A Digital Twin Framework for Computer Hardware Design and Assembly: A Risk-Prioritized Approach](https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2025/89022/V002T10A008/1223004) was presented at the ASME 2025 20th International Manufacturing Science and Engineering Conference (MSEC 2025).
 
+## Experience
+- **Research Assistant, Penn State University**
+  - 08/2021 - Now
+
+- **Research Associate, Surbana Jurong Nanyang Technological University Corporate Lab**
+  - 01/2020 - 08/2021
+
+  ## Service
+- Journal Reviewer: IEEE TASE, IEEE RAL
+- Conference Reviewer: CASE 2024/2025, ACC 2024/2025, MECC 2024/2025
 
 
+## Teaching
+- IE 312: Product Design and Manufacturing Processes
+  - Teaching Assistant, The Pennsylvania State University, 2021 Fall / 2022 Sprin/ 2022 Fall
