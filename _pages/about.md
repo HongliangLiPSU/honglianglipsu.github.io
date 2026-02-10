@@ -39,7 +39,7 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Il
 
 ## Teaching
 - IE 312: Product Design and Manufacturing Processes
-  - Teaching Assistant, Penn State University, 2021 Fall / 2022 Spring
+  - Teaching Assistant, Penn State University, 2021 Fall/2022 Spring
 
 - IE 306: Machining Process Design & Analysis
   - Teaching Assistant, Penn State University, 2022 Fall
