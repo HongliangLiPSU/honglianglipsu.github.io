@@ -32,7 +32,6 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Il
   - Built energy demand forecasting models
 
 
-
 ## Service
 - Journal Reviewer: IEEE TASE, IEEE RAL
 - Conference Reviewer: CASE 2024/2025, ACC 2024/2025, MECC 2024/2025
