@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a fifth-year Ph.D. candidate in the industrial engineering department at Penn State University, advised by [Prof. Ilya Kovalenko](https://www.caislab.com/) and [Prof. Herschel Pangborn](http://www.paclab.info/). Before Penn State, I was a Research Associate at the [Surbana Jurong–Nanyang Technological University Corporate Lab](https://www.ntu.edu.sg/sj-ntu), working on concrete 3D printing and waste energy recovery. I earned my B.S. and M.S. degrees from Tianjin University.
+Hi, I am a fifth-year Ph.D. candidate in the industrial engineering department at Penn State University, advised by [Prof. Ilya Kovalenko](https://www.caislab.com/) and [Prof. Herschel Pangborn](http://www.paclab.info/). I build advanced optimization and learning algorithms, as well as planning and digital twin tools, to make complex networked systems more efficient and reliable. Before Penn State, I was a Research Associate at the [Surbana Jurong–Nanyang Technological University Corporate Lab](https://www.ntu.edu.sg/sj-ntu), working on concrete 3D printing and waste energy recovery. I earned my B.S. and M.S. degrees from Tianjin University.
 
-I build advanced optimization and learning algorithms, as well as planning and digital twin tools, to make complex networked systems more efficient and reliable. I’m currently exploring internship and full-time opportunities beginning in May 2026. Feel free to reach out if you’d like to connect.
-
-
-
+I’m currently exploring internship and full-time opportunities beginning in May 2026. Feel free to reach out if you’d like to connect.
 
 ## News
 - [Jan 2026] Our paper Energy-Aware Integrated Predictive Maintenance Planning and Production Scheduling was accepted to The 2026 American Control Conference.
