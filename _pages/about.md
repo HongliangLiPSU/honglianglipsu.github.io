@@ -22,10 +22,10 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Il
 - **Research Assistant, Penn State University**
   - 08/2021 - Now
 
-- **Research Associate, Surbana Jurong Nanyang Technological University Corporate Lab**
+- **Research Associate, Surbana Jurong NTU Corporate Lab**
   - 01/2020 - 08/2021
 
-  ## Service
+## Service
 - Journal Reviewer: IEEE TASE, IEEE RAL
 - Conference Reviewer: CASE 2024/2025, ACC 2024/2025, MECC 2024/2025
 
