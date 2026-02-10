@@ -20,10 +20,18 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Il
 
 ## Experience
 - **Research Assistant, Penn State University**
-  - 08/2021 - Now
+  - 08/2021 - Present
+  - Built a control-oriented, system-level digital twin with dynamic modeling: [demo](https://mpc-dashboard-snowy.vercel.app/)
+  - Developed scalable bi-level optimization for coupled decision-making
+  - Built an LLM-powered generative digital twin for adaptive systems
 
-- **Research Associate, Surbana Jurong NTU Corporate Lab**
+- **Research Associate, [Surbana Jurong NTU Corporate Lab](https://www.ntu.edu.sg/sj-ntu)**
   - 01/2020 - 08/2021
+  - Performed LCA for 3D concrete printing in construction
+  - Developed cold energy recovery concepts for LNG storage
+  - Built energy demand forecasting models
+
+
 
 ## Service
 - Journal Reviewer: IEEE TASE, IEEE RAL
@@ -32,4 +40,4 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Il
 
 ## Teaching
 - IE 312: Product Design and Manufacturing Processes
-  - Teaching Assistant, Penn State University, 2021 Fall / 2022 Sprin/ 2022 Fall
+  - Teaching Assistant, Penn State University, 2021 Fall / 2022 Spring
