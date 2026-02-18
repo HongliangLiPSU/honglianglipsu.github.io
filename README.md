@@ -15,6 +15,25 @@
 
 See more info at https://academicpages.github.io/
 
+## Website visitor analytics (GA4)
+
+This site is configured to use Google Analytics 4 through Jekyll.
+
+To finish setup:
+
+1. In Google Analytics, create/select a GA4 property for your website.
+1. Copy the **Measurement ID** (looks like `G-XXXXXXXXXX`).
+1. Open `_config.yml` and set:
+
+```yml
+analytics:
+  provider: "google-analytics-4"
+  google:
+    tracking_id: "G-YOUR_REAL_ID"
+```
+
+After updating `_config.yml`, restart local Jekyll (`bundle exec jekyll serve -l -H localhost`) and redeploy to GitHub Pages.
+
 ## Sync Publications From Google Scholar
 
 Run one command from the repo root:
