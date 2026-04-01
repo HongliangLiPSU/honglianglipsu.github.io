@@ -32,4 +32,4 @@ This project builds a data-driven U.S. county-level Food Insecurity Index using 
   style="border: 1px solid #ddd; border-radius: 8px;"
 ></iframe>
 Our results align closely with USDA state-level food insecurity patterns, supporting the accuracy of our model. We extend this insight to the county level, providing more granular and actionable information for targeted local decision-making.
-![My figure](/images/food_insecurity_index.png)
+<img src="/images/food_insecurity_index.png" alt="My figure" style="width: 80%; max-width: 800px;">
