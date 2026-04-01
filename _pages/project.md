@@ -21,3 +21,15 @@ This project uses a diffusion model to learn the probability distribution of PJM
 ![My figure](/images/website_quantile_fan_chart.png)
 ![My figure](/images/website_scenario_trajectories.png)
 ![My figure](/images/website_tail_exceedance_validation.png)
+
+## Machine Learning–Driven U.S. County Food Insecurity Prediction and Risk Index Development
+This project builds a data-driven U.S. county-level Food Insecurity Index using machine learning. County socioeconomic and demographic features are modeled with XGBoost, then translated into a transparent 0–100 risk score (higher means higher risk) with SHAP-based feature weighting. The final output is an interactive map that helps policymakers and researchers quickly identify high-risk counties and support targeted interventions.
+<iframe 
+  src="https://ie582-food-insecurity-map-static.vercel.app/" 
+  width="80%" 
+  height="800px"
+  frameborder="0"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+></iframe>
+Our results align closely with USDA state-level food insecurity patterns, supporting the accuracy of our model. We extend this insight to the county level, providing more granular and actionable information for targeted local decision-making.
+![My figure](/images/food_insecurity_index.png)
