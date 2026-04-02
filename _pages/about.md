@@ -12,7 +12,7 @@ Hi, I am a fifth-year Ph.D. candidate in the industrial engineering department a
 I’m currently exploring internship and full-time opportunities beginning in May 2026. Feel free to reach out if you’d like to connect.
 
 ## News
-- [Jan 2026] Our paper Energy-Aware Integrated Predictive Maintenance Planning and Production Scheduling was accepted to The 2026 American Control Conference.
+- [Jan 2026] Our paper [Energy-Aware Integrated Predictive Maintenance Planning and Production Scheduling](https://arxiv.org/abs/2603.14060) was accepted to The 2026 American Control Conference.
 - [Dec 2025] Our paper [Hierarchical Model Predictive Control for Energy-aware Scheduling of Digital Twin-based Batch Manufacturing Systems](https://ieeexplore.ieee.org/abstract/document/11264006) was published in IEEE Transactions on Automation Science and Engineering. 
 - [Oct 2025] Hongliang was selected as a “Rising Star” in the ASME Dynamic Systems and Control Division.
 - [Oct 2025] Hongliang’s paper [Bi-level Model Predictive Control for Energy-aware Integrated Product Pricing and Production Scheduling](https://arxiv.org/abs/2507.14385) was nominated for a best student paper award at the Modeling Estimation and Control Conference (MECC 2025).
