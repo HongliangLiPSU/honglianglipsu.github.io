@@ -12,6 +12,7 @@ Hi, I am a fifth-year Ph.D. candidate in the industrial engineering department a
 I’m currently exploring internship and full-time opportunities beginning in May 2026. Feel free to reach out if you’d like to connect.
 
 ## News
+- [Apr 2026] I am honored to be part of a research team recently featured by [Penn State News](https://www.psu.edu/news/institute-computational-and-data-sciences/story/digital-twins-hubs-faculty-residence-program) through the ICDS Digital Twins Hub Faculty-in-Residence Program.
 - [Jan 2026] Our paper [Energy-Aware Integrated Predictive Maintenance Planning and Production Scheduling](https://arxiv.org/abs/2603.14060) was accepted to The 2026 American Control Conference.
 - [Dec 2025] Our paper [Hierarchical Model Predictive Control for Energy-aware Scheduling of Digital Twin-based Batch Manufacturing Systems](https://ieeexplore.ieee.org/abstract/document/11264006) was published in IEEE Transactions on Automation Science and Engineering. 
 - [Oct 2025] Hongliang was selected as a “Rising Star” in the ASME Dynamic Systems and Control Division.
